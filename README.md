@@ -2,6 +2,7 @@
 a simple "Advance War" on BBasic
 
 "Advance War" is a classic TBS game on gbc
+
 this is a simple version on BBasic
 
 thanks 八杯酒
